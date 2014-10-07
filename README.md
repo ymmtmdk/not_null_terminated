@@ -9,16 +9,12 @@ The core code of this gem was written by naruse-san http://blade.nagaokaut.ac.jp
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'not_null_terminated'
+gem 'not_null_terminated', github: "ymmtmdk/not_null_terminated"
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install not_null_terminated
 
 ## Usage
 
