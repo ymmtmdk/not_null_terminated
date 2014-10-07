@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["ymmtmdk"]
   spec.email         = ["ymmtmdk@gmail.com"]
   spec.extensions    = ["ext/not_null_terminated/extconf.rb"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "handle not null terminated string."
+#  spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
